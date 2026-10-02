@@ -17,3 +17,7 @@ default = []
 
 [dependencies]
 anchor-lang = "0.29.0"
+
+
+[workspace.metadata.cli]
+solana = "3.0.0"
